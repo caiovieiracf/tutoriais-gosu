@@ -1,6 +1,6 @@
 # Tutorial da LibGosu com Ruby
 
-(Observação: essa é uma tradução do [tutorial em inglês](https://github.com/jlnr/gosu/wiki/Ruby-Tutorial). Para este tutorial, baixe os seguintes _assets_: [Space.png](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Space.png), [Starfighter.bmp](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Star.png), [Star.png](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Star.png) e [Beep.wav](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Beep.wav).)
+(Observação: essa é uma tradução do [tutorial em inglês](https://github.com/jlnr/gosu/wiki/Ruby-Tutorial). Para este tutorial, baixe os seguintes _assets_: [Space.png](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Space.png), [Starfighter.bmp](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Starfighter.bmp), [Star.png](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Star.png) e [Beep.wav](https://raw.githubusercontent.com/jlnr/gosu/master/examples/media/Beep.wav).)
 
 ## Código fonte
 
